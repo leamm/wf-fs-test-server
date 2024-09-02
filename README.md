@@ -2,9 +2,8 @@
 
 ## install
 
-### 1. clone the repo
-
-### 2. install env
+1. clone the repo
+2. install env
 
 ```bash
 python -m venv venv
@@ -12,7 +11,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-### 2. run dev server
+3. run dev server
 
 ```bash
 fastapi dev main.py
